@@ -22,7 +22,7 @@ $ bundle install
 
 - Coinmarketcap API
 
-get your API KEY/TOKEN here https://pro.coinmarketcap.com/account
+get your API KEY/TOKEN here https://pro.coinmarketcap.com/account </br>
 read the documentation for endpoints here https://coinmarketcap.com/api/documentation/v1/#
 
 - Create an .env file and name the variable TOKEN. SAMPLE:
