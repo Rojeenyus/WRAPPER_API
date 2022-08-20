@@ -48,3 +48,5 @@ end
 
 gem 'faraday'
 gem 'httparty'
+gem 'rspec-rails'
+gem 'dotenv-rails'
